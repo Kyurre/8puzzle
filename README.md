@@ -24,6 +24,6 @@ Some metrics that were mesure were Depth, Time, Cost, and Max stack size
 
 ToDo: 
 
-Some of the algorithms don't return anything which is due to constant increase in queue size. This is probably due to my implementation to check for which state has been visited already and if there are any repeated ones in the current queue. I will try to work out my logic and commit changes as I find my solution. 
+Some of the algorithms don't return anything when using the hard board. It is because of constant increase in queue size. Most likely due to my implementation to check for which state has been visited already and if there are any repeated ones in the current queue. I will try to work out my logic and commit changes as I find my solution. 
 
 Update: A lot of them do work but it takes a long time. Astar will return an answer after running for four mins
