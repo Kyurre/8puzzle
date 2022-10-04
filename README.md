@@ -1,3 +1,7 @@
+
+Update: A lot of them do work but it takes a long time. Astar will return an answer after running for four mins
+Update: I will be changing the code because current all the classes are god classes. I plan to switch them to their individual classes so they can function better and it's easier to debug plus I will be changing the implementation of BFS and DFS to stack and queue-
+
 # 8puzzle
 MODIFIED 8 PUZZLE
 
